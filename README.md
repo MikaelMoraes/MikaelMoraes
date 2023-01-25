@@ -14,7 +14,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="440em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=tokyonight" alt="MikaelMoraes's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=tokyonight" alt="MikaelMoraes's stats"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=tokyonight" alt="MikaelMoraes's most languages"/>
 </p>
 
