@@ -1,7 +1,7 @@
 ### Olá! eu sou MikaelMoraes
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Me aperfeiçoando Estudando Vue.js
+- 🌱 Me aperfeiçoando em Vue.js
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Mikael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
