@@ -14,8 +14,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=radical" alt="MikaelMoraes's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=radical" alt="MikaelMoraes's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=dracula" alt="MikaelMoraes's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=dracula" alt="MikaelMoraes's most languages"/>
 </p>
 
 ##
