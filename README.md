@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou procurando uma oportunidade como front-end
 - 🌱 Me aperfeiçoando em Vue.js
-- 
+
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="440em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=tokyonight" alt="MikaelMoraes's stats"/>
