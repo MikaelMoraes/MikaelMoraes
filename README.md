@@ -11,6 +11,13 @@
   <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
 
+
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=vision-friendly-dark" alt="MikaelMoraes's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=vision-friendly-dark" alt="MikaelMoraes's most languages"/>
+</p>
+
 ##
 
 <div> 
