@@ -2,6 +2,13 @@
 
 - 🔭 Hoje estou procurando uma oportunidade como front-end
 - 🌱 Me aperfeiçoando em Vue.js
+- 
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="440em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=tokyonight" alt="MikaelMoraes's stats"/>
+<img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=tokyonight" alt="MikaelMoraes's most languages"/>
+</p>
+
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Mikael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,13 +17,6 @@
   <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
-
-
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="440em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=tokyonight" alt="MikaelMoraes's stats"/>
-<img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=tokyonight" alt="MikaelMoraes's most languages"/>
-</p>
 
 ##
 
