@@ -1,6 +1,6 @@
 ### Olá! eu sou MikaelMoraes
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje estou procurando uma oportunidade como front-end
 - 🌱 Me aperfeiçoando em Vue.js
 ##
 <div style="display: inline_block"><br>
