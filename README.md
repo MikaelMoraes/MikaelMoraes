@@ -21,7 +21,7 @@
 </div>
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=vision-friendly-dark" alt="MikaelMoraes's stats"/>
-<img width="365em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=vision-friendly-dark" alt="MikaelMoraes's most languages"/>
+<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=vision-friendly-dark" alt="MikaelMoraes's most languages"/>
 </p>
 
 
