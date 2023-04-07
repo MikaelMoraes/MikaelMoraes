@@ -20,8 +20,8 @@
   <a href="https://www.instagram.com/mikael_mmoraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=vision-friendly-tokyonight" alt="MikaelMoraes's stats"/>
-<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=vision-friendly-tokyonight" alt="MikaelMoraes's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=MikaelMoraes&show_icons=true&theme=vision-tokyonight" alt="MikaelMoraes's stats"/>
+<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMoraes&layout=compact&theme=vision-tokyonight" alt="MikaelMoraes's most languages"/>
 </p>
 
 
