@@ -1,6 +1,5 @@
 ### Olá! eu sou MikaelMoraes
 
-- 🔭 Hoje estou procurando uma oportunidade como front-end
 - 🌱 Me aperfeiçoando em Vue.js
 
 ##
