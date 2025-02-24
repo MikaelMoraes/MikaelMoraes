@@ -1,6 +1,6 @@
 ### Olá! eu sou MikaelMoraes
 
-- 🌱 Me aperfeiçoando em Vue.js
+- Desenvolvedor front-end, buscando ser full-stack
 
 ##
 <div style="display: inline_block"><br>
