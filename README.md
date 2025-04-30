@@ -1,6 +1,6 @@
 ### Olá! eu sou MikaelMoraes
 
-- Desenvolvedor front-end, buscando ser full-stack
+- Desenvolvedor front-end
 
 ##
 <div style="display: inline_block"><br>
